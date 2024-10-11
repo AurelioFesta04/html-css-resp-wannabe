@@ -36,6 +36,13 @@
     .col {
         margin-bottom: 5rem;
     }
+
+    .why-us {
+        margin-bottom: 0%;
+        background-color: #1f0503;
+        padding-top: 50px;
+        margin-top: -50px;
+    }
 }
 
 @media screen and (max-width: 1160px) {
